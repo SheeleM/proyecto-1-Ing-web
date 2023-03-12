@@ -1,0 +1,180 @@
+/* header */
+header {
+    position: absolute;
+    height: 100px;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    background: #FFF159;
+}
+
+#div1 {
+    position: absolute;
+    width: 1200px;
+    height: 92px;
+    left: calc(50% - 1200px/2);
+    top: 0px;
+}
+form{
+position: absolute;
+width: 600px;
+height: 56px;
+left: 195px;
+top: 0px;
+}
+button{
+position: absolute;
+width: 46px;
+height: 39px;
+right: 1px;
+top: 8px;
+background: #FFFFFF;
+border-radius: 0px 2px 2px 0px;
+}
+#div2{
+position: absolute;
+height: 39px;
+left: 1px;
+right: 1px;
+top: 8px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.2);
+border-radius: 2px;
+}
+/* div#placeholder */
+#divplaceholder{
+    position: absolute;
+    width: 523px;
+    height: 23px;
+    left: 15px;
+    top: 7px;
+}
+span{
+  
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+
+color: rgba(0, 0, 0, 0.25);
+}
+/* Crea tu cuenta Ingresa Mis compras */
+#spanCompras{
+    
+position: absolute;
+width: 253.25px;
+height: 20px;
+left: 39.95px;
+top: 21px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 55px;
+/* or 393% */
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #333333;
+}
+nav{
+    position: absolute;
+width: 295px;
+height: 52px;
+left: 856px;
+top: 48px;
+}
+/* ul */
+
+
+/* a */
+
+#spandomicilio{
+ 
+    position: absolute;
+    height: 22px;
+    left: 9px;
+    right: 5px;
+    top: 11px;
+    
+}
+#a2{
+position: absolute;
+width: 78.55px;
+height: 20px;
+left: 186px;
+top: 13px;
+
+}
+
+.nav-menu-item .nav-menu-categories-link:after {
+    border-style: solid;
+    border-width: 0 1.5px 1.5px 0;
+    content: "";
+    display: inline-block;
+    height: 6px;
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+    width: 6px;
+    color: rgba(0,0,0,.3);
+    margin: 0;
+    bottom: 6px;
+    right: 2px;
+    position: absolute;
+    padding: 2px;
+}
+
+#spandomicilio2{
+    position: absolute;
+    width: 78.55px;
+    height: 20px;
+    left: 186px;
+    top: 13px;
+    
+}
+
+
+#spandomicilio3{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px 5.64062px 0px 0px;
+    
+    position: absolute;
+    width: 90.64px;
+    height: 22px;
+    left: 270px;
+    top: 16px;
+}
+.expliflex{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+}
+
+.flexb{
+    display:  flex;
+    width: 740px;
+    height: 36px;
+    left: 15px;
+    top: 55px;
+    background-color: aquamarine;
+        justify-content: space-between;
+        position: absolute;
+
+
+}
+.lex2{
+    margin-top: 15px;
+}
+.dos{
+    display: flex;
+    background-color: #5980ff;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
