@@ -280,8 +280,6 @@ background: url(.png);
 width: 1512px;
 height: 340px;
 top: 0px;
-
-
 }
 .imagen2{
     position: absolute;
@@ -291,4 +289,141 @@ left: calc(50% - 1512px/2);
 top: 0px;
 
 background: url(.png);
+}
+
+.div-2{
+    position: absolute;
+width: 1184px;
+height: 90px;
+left: calc(50% - 1184px/2);
+top: 380px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
+border-radius: 4px;
+display: flex;
+justify-content: space-around;
+}
+
+.mpagos{
+width: 200px;
+height: 20px;
+left: 85px;
+top: 24px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 20px;
+/* identical to box height */
+
+
+
+
+color: #000000;
+}
+
+.mivi{
+    align-items: center;
+
+
+}
+.mivi2{
+    width: 304.66px;
+height: 130px;
+background-color: #3483FA;
+}
+.todas{
+    position: absolute;
+width: 56px;
+height: 15px;
+margin-left: 925px;
+margin-top: -13px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 15px;
+display: flex;
+align-items: center;
+color: #3483FA;
+}
+.todas2{
+    position: absolute;
+width: 56px;
+height: 15px;
+margin-left: 610px;
+margin-top: -13px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 15px;
+display: flex;
+align-items: center;
+color: #3483FA;
+
+}
+.todas3{
+    position: absolute;
+width: 56px;
+height: 15px;
+margin-left: 298px;
+margin-top: -13px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 15px;
+display: flex;
+align-items: center;
+color: #3483FA;
+
+}
+/* Oval-4 */
+.Oval-4{
+  
+    top: 25%;
+    bottom: 25%;
+    color: red;
+    background: #5697FA;
+
+    Width: 30px;
+Height :30px;
+margin-top:-200px;
+margin-left:-50px;
+}
+
+
+.mili{
+    margin-left: -65px;
+    margin-top: -40px;
+    list-style: none;
+
+}
+
+.mpago{
+    margin-left: 30px;
+}
+.mili1{
+    margin-left: -35px;
+    margin-top: -40px;
+    list-style: none;
+}
+.todas4{
+    position: absolute;
+width: 56px;
+height: 15px;
+margin-left: 83px;
+margin-top: -13px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 15px;
+display: flex;
+align-items: center;
+color: #3483FA;
+
 }
