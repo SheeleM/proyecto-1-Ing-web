@@ -1,0 +1,221 @@
+.mercado-punto{
+    position: absolute;
+width: 1200px;
+height: 399.19px;
+left: calc(50% - 1200px/2);
+margin-top: 1320px;
+
+}
+.mercado-punto1{
+    position: absolute;
+    width: 1200px;
+    height: 266px;
+    left: 0px;
+    top: 93.19px;
+    
+}
+.mercado-punto2{
+    position: absolute;
+width: 384px;
+height: 250px;
+left: 808px;
+top: 0px;
+
+border-radius: 6px;
+background-color: darkgreen;
+}
+.mercado-punto3{
+    position: absolute;
+    width: 384px;
+    height: 250px;
+    left: 408px;
+    margin-top: 0px;
+    background-color: rgb(155, 124, 3);
+    border-radius: 6px;
+}
+.mercado-punto4{
+    position: absolute;
+width: 384px;
+height: 250px;
+left: 8px;
+top: 0px;
+background-color: lightslategrey;
+border-radius: 6px;
+}
+.mercado-punto-i{
+    position: absolute;
+left: 0px;
+right: 0px;
+top: 138px;
+bottom: 0px;
+
+}
+.mercado-punto-i2{
+    position: absolute;
+width: 168.94px;
+height: 67.89px;
+
+margin-left:10px;
+top: calc(50% - 67.89px/2 - 0.01px);
+}
+.paramore{
+    position: absolute;
+width: 80px;
+height: 80px;
+left: 16px;
+top: calc(50% - 80px/2);
+
+background: url(.png);
+border-radius: 6px;
+}
+.mercado-punto-letras{
+    position: absolute;
+width: 168.94px;
+height: 67.89px;
+left: 96px;
+top: calc(50% - 67.89px/2 - 0.01px);
+
+}
+.mi-span-mercado{
+    position: absolute;
+width: 75px;
+height: 16px;
+left: 16px;
+top: -1px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+}
+.mi-span-mercado2{
+    position: absolute;
+width: 230px;
+height: 24px;
+left: 16px;
+top: 18.95px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 24px;
+/* identical to box height, or 109% */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+}
+.paramount{
+    position: absolute;
+width: 120px;
+height: 20px;
+left: 16px;
+top: 47.92px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 20px;
+/* identical to box height, or 118% */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.4px;
+
+color: #FFFFFF;
+}
+.img-hbomax{
+    position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: url(.png)
+}
+.mercado-hbo{
+    position: absolute;
+left: 0px;
+right: 0px;
+top: 138px;
+bottom: 0px;
+
+}
+.mercado-hbo1{
+    position: absolute;
+width: 168.94px;
+height: 67.89px;
+left: 96px;
+top: calc(50% - 67.89px/2 - 0.01px);
+}
+.mercado-svg-hbo{
+    position: absolute;
+width: 80px;
+height: 80px;
+left: 16px;
+top: calc(50% - 80px/2);
+
+background: url(.png);
+border-radius: 6px;
+}
+
+.bene-merc-puntos{
+    position: absolute;
+    width: 535.73px;
+    height: 31.19px;
+    left: 0px;
+    top: 40px;
+    
+}
+
+.bene-1{
+    position: absolute;
+width: 334px;
+height: 32px;
+left: 8px;
+top: 0px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 25px;
+line-height: 31px;
+/* identical to box height, or 125% */
+
+display: flex;
+align-items: center;
+
+color: #666666;
+}
+.bene2{
+    position: absolute;
+width: 161px;
+height: 20px;
+margin-left: 320px;
+top: 10px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+/* identical to box height, or 128% */
+
+display: flex;
+align-items: center;
+
+color: #3483FA;
+
+}
