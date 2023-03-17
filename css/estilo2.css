@@ -1,0 +1,219 @@
+.ofertas{
+    position: absolute;
+    width: 1200px;
+    height: 460.19px;
+    left: calc(50% - 1200px/2);
+    top: 480px;
+    
+}
+.oferta2{
+width: 1200px;
+height: 415px;
+left: 0px;
+top: 900px;
+display: flex;
+justify-content: space-around;
+
+}
+
+.div-oferta{
+    position: absolute;
+width: 224px;
+height: 350px;
+left: 968px;
+top: 65px;
+justify-content: space-between;
+display: flex;
+background: #FFFFFF;
+box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
+border-radius: 4px;
+}
+.div-oferta2{
+    position: absolute;
+width: 224px;
+height: 350px;
+left: 728px;
+top: 65px;
+background: #FFFFFF;
+box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
+border-radius: 4px;
+}
+.div-oferta3{
+    position: absolute;
+width: 224px;
+height: 350px;
+left: 488px;
+top: 65px;
+background: #FFFFFF;
+box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
+border-radius: 4px;
+}
+.div-oferta4{
+    position: absolute;
+width: 224px;
+height: 350px;
+left: 248px;
+top: 65px;
+background: #FFFFFF;
+box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
+border-radius: 4px;
+
+}
+.div-oferta5{
+    position: absolute;
+width: 224px;
+height: 350px;
+left: 8px;
+top: 65px;
+background: #FFFFFF;
+box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
+border-radius: 4px;
+}
+.cortina{
+    position: absolute;
+width: 224px;
+height: 224px;
+left: 0px;
+top: 0px;
+border-bottom: 1px solid  #EDEDED;
+
+background: url(.png);
+}
+.precio-1{
+    position: absolute;
+width: 157.16px;
+height: 24px;
+left: 17px;
+top: 230px;
+
+}
+.precio-1 span{
+    color: black;
+}
+.cortina-lol{
+ 
+width: 14px;
+height: 24px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height, or 100% */
+
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+}
+
+h2{
+    margin-left: 5px;
+    color: #333333;
+}
+h3{
+    
+position: absolute;
+width: 51px;
+height: 15px;
+margin-left: 90px;
+top: -10px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 15px;
+display: flex;
+align-items: center;
+
+color: #00A650;
+
+}
+.vector{
+  margin-top:60px;
+  margin-left:-80px;
+}
+.h31{    
+position: absolute;
+width: 51px;
+height: 15px;
+margin-left: 100px;
+top: -10px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 15px;
+display: flex;
+align-items: center;
+color: #00A650;
+}
+.h32{
+    position: absolute;
+width: 100px;
+height: 15px;
+margin-left:1px;
+margin-top:38px ;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 470;
+font-size: 13px;
+line-height: 20px;
+display: flex;
+align-items: center;
+color: #00A650;
+
+}
+.vector2{
+    margin-left: -5px;
+    margin-top: 50px;
+}
+.ofertas-vertodas{
+    position: absolute;
+width: 173.3px;
+height: 31.19px;
+margin-top: 500px;
+margin-left: 30px;
+
+}
+.oferta1-oferta{
+    position: absolute;
+width: 82px;
+height: 32px;
+left: 8px;
+top: 0px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 25px;
+line-height: 31px;
+/* identical to box height, or 125% */
+
+display: flex;
+align-items: center;
+
+color: #666666;
+}
+.oferta2-oferta{
+    position: absolute;
+width: 64px;
+height: 20px;
+margin-left: 90px;
+top: 10px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+/* identical to box height, or 128% */
+
+display: flex;
+align-items: center;
+
+color: #3483FA;
+}

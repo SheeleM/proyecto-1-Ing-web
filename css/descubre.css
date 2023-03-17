@@ -1,0 +1,246 @@
+.descubre{
+    position: absolute;
+width: 1200px;
+height: 398.19px;
+left: calc(50% - 1200px/2);
+margin-top: 1730px;
+}
+.descubre-1{
+    position: absolute;
+height: 265px;
+left: 0px;
+right: 0px;
+top: 93.19px;
+
+}
+.descubre-a{
+    position: absolute;
+height: 261px;
+left: 607px;
+right: 9px;
+top: 0px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
+border-radius: 4px;
+}
+.descrubre-a-i{
+    position: absolute;
+width: 289.84px;
+left: 303.27px;
+top: 0px;
+bottom: 0px;
+
+background: url(.png);
+}
+.descubre-a-i-2{
+    position: absolute;
+width: 275.11px;
+height: 198.59px;
+margin-left:620px;
+top: 25.7px;
+
+}
+.nivel6{
+    position: absolute;
+width: 240px;
+height: 12px;
+left: 32px;
+top: 32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 12px;
+/* identical to box height, or 100% */
+
+display: flex;
+align-items: center;
+letter-spacing: 4px;
+text-transform: uppercase;
+
+color: #4B4B4B;
+}
+.porSolo{
+    position: absolute;
+width: 200px;
+height: 31px;
+left: 32px;
+top: 55px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 31px;
+/* identical to box height, or 110% */
+
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #4B4B4B;
+}
+.cadaMes{
+    position: absolute;
+width: 241px;
+height: 31px;
+left: 32px;
+top: 85.8px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 27px;
+line-height: 31px;
+/* identical to box height, or 114% */
+
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #4B4B4B;
+
+}
+.cadaMes-1{
+    position: absolute;
+width: 96px;
+height: 36px;
+
+top: 130.59px;
+margin-left: 30px;
+border-radius: 2px;
+background: #3483FA;
+}
+.cadaMes-vermas{
+    position: absolute;
+width: 74.09px;
+height: 20px;
+top: 7.5px;
+text-decoration: none;
+margin-left: 18px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 1px;
+/* or 7% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.descubrecaja2{
+    position: absolute;
+height: 261px;
+left: 0px;
+right: 608px;
+margin-top: 92px;
+background-color: #FFFFFF;
+
+box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
+border-radius: 4px;
+}
+.descubre-batea{
+    position: absolute;
+width: 289.84px;
+margin-left: 298px;
+margin-top:0px;
+background: url(.png);
+height: 263px;
+}
+.descubre-caja-hogar{
+    position: absolute;
+width: 287.34px;
+height: 198.59px;
+left: 0px;
+top: 25.7px;
+
+}
+.descubre-span-hogar{
+    position: absolute;
+width: 250px;
+height: 12px;
+left: 15px;
+top: 32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 12px;
+/* identical to box height, or 100% */
+
+display: flex;
+align-items: center;
+letter-spacing: 4px;
+text-transform: uppercase;
+
+color: #4B4B4B;
+
+}
+.descubre-muebles{
+    position: absolute;
+width: 300px;
+height: 31px;
+left: 10px;
+top: 55px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 31px;
+/* identical to box height, or 110% */
+
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #4B4B4B;
+}
+.descubre-muebles1{
+    position: absolute;
+    width: 250px;
+    height: 31px;
+    left: 10px;
+    top: 85.8px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 31px;
+    /* identical to box height, or 110% */
+    
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+    
+    color: #4B4B4B;
+}
+.descubre-caja01{
+    position: absolute;
+width: 109.59px;
+height: 37px;
+left: 8px;
+top: 37px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 26px;
+line-height: 31px;
+/* or 120% */
+
+display: flex;
+align-items: center;
+
+color: #666666;
+
+}
